@@ -1,16 +1,16 @@
 {
   "name": "vue-image-mask",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "一个组件，可以在图片上绘制透明涂鸦，并生成修改后的图片",
-  "author": "Fzyfeng <https://github.com/Fzyfeng>",
-  "homepage": "https://github.com/Fzyfeng/git_repo#readme",
+  "author": "<https://github.com/Fzyfeng>",
+  "homepage": "https://github.com/Fzyfeng/vue-image-mask",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fzyfeng/git_repo.git"
+    "url": "git+https://github.com/Fzyfeng/vue-image-mask.git"
   },
   "bugs": {
-    "url": "https://github.com/Fzyfeng/git_repo/issues"
+    "url": "https://github.com/Fzyfeng/vue-image-mask/issues"
   },
   "type": "module",
   "files": [
